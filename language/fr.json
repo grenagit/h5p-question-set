@@ -1,7 +1,7 @@
 {
   "semantics": [
     {
-      "label": "Introduction du Quiz",
+      "label": "Introduction du quiz",
       "fields": [
         {
           "label": "Afficher l'introduction"
@@ -152,7 +152,7 @@
         },
         {
 
-          "label": "Score announcer",
+          "label": "Annonceur de la note",
           "description": "Cette vignette sera utilisée pour annoncer la note finale à l'utilisateur sur l'écran de fin",
           "default": "Vous avez obtenu @finals sur @totals points"
         },
@@ -219,7 +219,7 @@
           "default": "Terminer"
         },
         {
-          "label": "Submit button text",
+          "label": "Texte pour le bouton \"Soumettre\"",
           "default": "Soumettre"
         },
         {
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "label": "Paramètres pour les touches « Montrer la solution » et « Réessayer »",
+      "label": "Paramètres pour les touches \"Montrer la solution\" et \"Réessayer\"",
       "fields": [
         {
           "label": "Montrer les boutons \"Vérifier\"",
